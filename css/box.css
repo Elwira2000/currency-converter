@@ -1,0 +1,7 @@
+.box {
+    border: 20px solid rgb(0, 0, 0);
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 178px 10px #3E4444;
+}
