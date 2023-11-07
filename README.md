@@ -7,3 +7,4 @@ https://elwira2000.github.io/currency-converter/
 2. Enter your amount of money in PLN.
 3. Press the button called "convert".
 ![Animowany gif](https://github.com/Elwira2000/currency-converter/blob/main/images/currencyConverter.gif?raw=true)
+Attention! Homepage in polish.
