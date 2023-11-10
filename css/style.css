@@ -11,6 +11,7 @@ html {
     background-image: url("https://github.com/Elwira2000/currency-converter/blob/main/images/background.jpg?raw=true");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 
 .header {
